@@ -1,0 +1,34 @@
+{
+  "keyword": "Warhammer 40,000: Darktide",
+  "slug": "one-warhammer-40k-darktide-crayfish",
+  "game": "warhammer-40k-darktide",
+  "lang": "en",
+  "variant": "multi",
+  "variant_title": "Multi-Cheat Pack",
+  "angle": 7,
+  "short_link": "https://share.google/sfoFd4g3x224q0DaK",
+  "destination": "https://githubguru.at/s/1xvA0cXT",
+  "topics": [],
+  "batch": 14,
+  "anticheat": "EAC",
+  "modules": [
+    "spoofer",
+    "aimbot"
+  ],
+  "has_skins": false,
+  "players": 5466,
+  "keepalive": {
+    "file": ".github/workflows/update.yml",
+    "name": "Maintenance run",
+    "crons": [
+      "0 16 * * *"
+    ]
+  },
+  "button": {
+    "shape": "s12",
+    "label": "Get instructions",
+    "icon": "download"
+  },
+  "files": 19,
+  "bytes": 1407104
+}
